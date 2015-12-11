@@ -1,0 +1,7 @@
+c:\users\peter\documents\visual studio 2013\Projects\TypeWriteFramework\TypeWriteFramework\bin\Debug\TypeWriteFramework.exe.config
+c:\users\peter\documents\visual studio 2013\Projects\TypeWriteFramework\TypeWriteFramework\obj\Debug\TypeWriteFramework.csprojResolveAssemblyReference.cache
+c:\users\peter\documents\visual studio 2013\Projects\TypeWriteFramework\TypeWriteFramework\bin\Debug\TypeWriteFramework.exe
+c:\users\peter\documents\visual studio 2013\Projects\TypeWriteFramework\TypeWriteFramework\bin\Debug\TypeWriteFramework.pdb
+c:\users\peter\documents\visual studio 2013\Projects\TypeWriteFramework\TypeWriteFramework\obj\Debug\TypeWriteFramework.exe
+c:\users\peter\documents\visual studio 2013\Projects\TypeWriteFramework\TypeWriteFramework\obj\Debug\TypeWriteFramework.pdb
+c:\users\peter\documents\visual studio 2013\Projects\TypeWriteFramework\TypeWriteFramework\bin\Debug\Test.xml
